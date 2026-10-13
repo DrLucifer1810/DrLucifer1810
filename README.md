@@ -1,30 +1,39 @@
 # 👨‍💻 Dr.Lucifer — Principal Systems Architect & Staff Distributed Engineer
 
-[![Architecture Portfolio](https://img.shields.io/badge/Featured%20Portfolio-system--architecture--case--studies-0ea5e9?style=for-the-badge&logo=github)](https://github.com/DrLucifer1810/system-architecture-case-studies)
+[![Architecture Portfolio (EN)](https://img.shields.io/badge/English%20Portfolio-system--architecture--case--studies-0ea5e9?style=for-the-badge&logo=github)](https://github.com/DrLucifer1810/system-architecture-case-studies)
+[![Hồ Sơ Kiến Trúc (VI)](https://img.shields.io/badge/Hồ%20Sơ%20Kiến%20Trúc%20(VI)-case--studies--vi-emerald?style=for-the-badge&logo=github)](https://github.com/DrLucifer1810/system-architecture-case-studies-vi)
 [![Full Dossier](https://img.shields.io/badge/Full%20Dossier-PROFILE.md-6366f1?style=for-the-badge)](https://github.com/DrLucifer1810/system-architecture-case-studies/blob/main/PROFILE.md)
-[![Hồ Sơ Tiếng Việt](https://img.shields.io/badge/Hồ%20Sơ-Tiếng%20Việt-emerald?style=for-the-badge)](https://github.com/DrLucifer1810/system-architecture-case-studies/blob/main/PROFILE.vi.md)
 
 > **Architecting Resilient Distributed Systems, Bare-Metal Edge Clouds & Cognitive AI Workflows.**  
 > Specializing in high-throughput concurrent backends, zero-trust network ingress, self-sovereign edge infrastructure, and non-invasive desktop telemetry.
 
 ---
 
-## 🏛️ Flagship Showcase: Enterprise Production Case Studies
+## 🏛️ Flagship Showcases: Production System Architectures
 
-My engineering capabilities and architectural philosophies are demonstrated in depth in the flagship public repository:
+My engineering capabilities and architectural philosophies are documented across **two dedicated, uncompromised repositories**:
 
-### 🌟 [**DrLucifer1810/system-architecture-case-studies**](https://github.com/DrLucifer1810/system-architecture-case-studies)
+<div align="center">
 
-A curated collection of battle-tested architectural blueprints, system specs, and runnable sanitized code across **4 production systems**:
+| 🇺🇸 [**English Standard Edition**](https://github.com/DrLucifer1810/system-architecture-case-studies) | 🇻🇳 [**Phiên Bản Tiếng Việt**](https://github.com/DrLucifer1810/system-architecture-case-studies-vi) |
+| :---: | :---: |
+| Pure English technical blueprints, enterprise design documents, and runnable sanitized implementations. | Toàn bộ tài liệu kiến trúc, phân tích kỹ thuật chuyên sâu và mã nguồn mẫu chuẩn hóa bằng Tiếng Việt. |
+| [👉 **Explore English Repository**](https://github.com/DrLucifer1810/system-architecture-case-studies) | [👉 **Khám Phá Bản Tiếng Việt**](https://github.com/DrLucifer1810/system-architecture-case-studies-vi) |
+
+</div>
+
+---
+
+### 📂 Featured Production Systems
+
+Both repositories feature identical, comprehensive blueprints across **4 production platforms**:
 
 | System Case Study | Technical Domain | Core Stack | Key Production Metrics |
 | :--- | :--- | :--- | :--- |
-| [**Biztada Platform**](https://github.com/DrLucifer1810/system-architecture-case-studies/tree/main/projects/biztada-distributed-automation) | **Distributed Automation Mesh & Real-time AI CRM** | Go, Python, Redis Streams, MQTT, Cloudflare Edge, Playwright | Sub-second task leases, zero zombie workers behind residential NAT. |
-| [**Fusio SuperApp**](https://github.com/DrLucifer1810/system-architecture-case-studies/tree/main/projects/fusio-cognitive-desktop-superapp) | **Decentralized Cognitive Node & Desktop SuperApp** | Rust (Tauri v2), Python 3.11, React 18, SQLite WAL, TDLib | 10,000% faster repeated workflows; zero-token deterministic macros. |
-| [**Local Server Cluster**](https://github.com/DrLucifer1810/system-architecture-case-studies/tree/main/projects/local-server-edge-k8s-cluster) | **Edge Bare-Metal Kubernetes Micro-Datacenter** | K3d, K3s, Docker Registry, Cloudflare Tunnels, Dual-WAN, LiFePO4 EPS | **99.5% cloud cost reduction** ($420/mo → $1.80/mo); 14h battery backup. |
-| [**MyDNA Passport**](https://github.com/DrLucifer1810/system-architecture-case-studies/tree/main/projects/mydna-ai-coworker-passport) | **OS Telemetry, Privacy-First PIR & AI-Coworker Passport** | Rust (Tauri v2), Win32 API, Axum (MCP Server), SQLite WAL | `<0.3% CPU`, client-side PIR scrubbing >480 MB/s, embedded MCP on port 5050. |
-
-👉 *Every case study features 100% independent bilingual documentation in [English](https://github.com/DrLucifer1810/system-architecture-case-studies) and [Tiếng Việt](https://github.com/DrLucifer1810/system-architecture-case-studies/blob/main/README.vi.md) with compilable reference implementations.*
+| **Biztada Platform** | **Distributed Automation Mesh & Real-time AI CRM** | Go, Python, Redis Streams, MQTT, Cloudflare Edge, Playwright | Sub-second task leases, zero zombie workers behind residential NAT. |
+| **Fusio SuperApp** | **Decentralized Cognitive Node & Desktop SuperApp** | Rust (Tauri v2), Python 3.11, React 18, SQLite WAL, TDLib | 10,000% faster repeated workflows; zero-token deterministic macros. |
+| **Local Server Cluster** | **Edge Bare-Metal Kubernetes Micro-Datacenter** | K3d, K3s, Docker Registry, Cloudflare Tunnels, Dual-WAN, LiFePO4 EPS | **99.5% cloud cost reduction** ($420/mo → $1.80/mo); 14h battery backup. |
+| **MyDNA Passport** | **OS Telemetry, Privacy-First PIR & AI-Coworker Passport** | Rust (Tauri v2), Win32 API, Axum (MCP Server), SQLite WAL | `<0.3% CPU`, client-side PIR scrubbing >480 MB/s, embedded MCP on port 5050. |
 
 ---
 
@@ -65,11 +74,11 @@ I am open to technical collaborations, advisory roles, and high-impact engineeri
 - **FinOps & Edge Infrastructure Audits:** Slashing cloud operational expenses and building self-hosted edge micro-datacenters.
 - **Agentic AI & Model Context Protocol (MCP):** Embedding local MCP servers and building desktop AI platforms.
 
-📄 **Read Full Professional Dossier:**  
-[🇺🇸 English Architect Dossier (PROFILE.md)](https://github.com/DrLucifer1810/system-architecture-case-studies/blob/main/PROFILE.md) | [🇻🇳 Hồ Sơ Năng Lực Kiến Trúc Sư (PROFILE.vi.md)](https://github.com/DrLucifer1810/system-architecture-case-studies/blob/main/PROFILE.vi.md)
+📄 **Read Full Professional Dossiers:**  
+[🇺🇸 English Architect Dossier](https://github.com/DrLucifer1810/system-architecture-case-studies/blob/main/PROFILE.md) | [🇻🇳 Hồ Sơ Năng Lực Kiến Trúc Sư](https://github.com/DrLucifer1810/system-architecture-case-studies-vi/blob/main/PROFILE.md)
 
 ---
 
 <div align="center">
   <sub>Curated and maintained with precision by <strong>Dr.Lucifer</strong>. Open for architecture discussions via GitHub Discussions.</sub>
-</div>\n
+</div>
