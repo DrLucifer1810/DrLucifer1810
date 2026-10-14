@@ -26,7 +26,7 @@ My engineering capabilities and architectural philosophies are documented across
 
 ### 📂 Featured Production Systems
 
-Both repositories feature identical, comprehensive blueprints across **4 production platforms**:
+Both repositories feature identical, comprehensive blueprints across **5 production platforms**:
 
 | System Case Study | Technical Domain | Core Stack | Key Production Metrics |
 | :--- | :--- | :--- | :--- |
@@ -34,6 +34,7 @@ Both repositories feature identical, comprehensive blueprints across **4 product
 | **Fusio SuperApp** | **Decentralized Cognitive Node & Desktop SuperApp** | Rust (Tauri v2), Python 3.11, React 18, SQLite WAL, TDLib | 10,000% faster repeated workflows; zero-token deterministic macros. |
 | **Local Server Cluster** | **Edge Bare-Metal Kubernetes Micro-Datacenter** | K3d, K3s, Docker Registry, Cloudflare Tunnels, Dual-WAN, LiFePO4 EPS | **99.5% cloud cost reduction** ($420/mo → $1.80/mo); 14h battery backup. |
 | **MyDNA Passport** | **OS Telemetry, Privacy-First PIR & AI-Coworker Passport** | Rust (Tauri v2), Win32 API, Axum (MCP Server), SQLite WAL | `<0.3% CPU`, client-side PIR scrubbing >480 MB/s, embedded MCP on port 5050. |
+| **F2F Trading Arena** | **Real-Time Trading Tournament & 1v1 PvP Match Engine** | Python (FastAPI), Go, Redis Streams & PubSub, MySQL, Kubernetes, MT4/MT5 | Sub-second broker account pool checkout, zero-loss Redis Streams event recovery, automated round scheduling. |
 
 ---
 
